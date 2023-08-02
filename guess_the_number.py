@@ -1,5 +1,5 @@
-# Cria um algorítmo que gera um valor aleatório. O jogador 
-# deve tentar adivinhar o número gerado.
+# Create an algorithm that generates a random value. 
+# The player must try to guess the generated number.
 
 import PySimpleGUI as sg
 import random
